@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+<channel>
+  <title>Musica al Día</title>
+  <link>https://eva-lendinez.neocities.org/paginaweb/index.html</link>
+  <atom:link href="https://eva-lendinez.neocities.org/paginaweb/RSS.rss"/>
+  <description>Accede a nuestra página de noticias sobre música</description>
+  <language>es-ES</language>
+  <ttl>60</ttl>
+  
+
+
+  <item>
+    <title>Sección de Noticias</title>
+    <link>https://eva-lendinez.neocities.org/paginaweb/html/Musica_directo.html</link>
+    <description>Últimas noticias</description>
+  </item>
+
+  <item>
+    <title>Estilos musicales</title>
+    <link>https://eva-lendinez.neocities.org/paginaweb/html/estilos_musicales.html</link>
+    <description>Śección dedicada a la descripción de diferentes estilos de música</description>
+  </item>
+
+  <item>
+    <title>Sección musical</title>
+    <link>https://eva-lendinez.neocities.org/paginaweb/html/seleccion_musical.html
+    </link>
+    <description>La mejor selección musical de semana en semana</description>
+  </item>
+
+</channel>
+
+</rss> 

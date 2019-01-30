@@ -1,0 +1,217 @@
+
+blockquote {
+    text-align: center;
+
+
+}
+#seccion h1 {
+	text-decoration: underline;
+}
+
+#seccion p {
+	text-align: justify;
+}
+
+#seccion p img{
+	width: 30%;
+	height: 30%;
+	padding-left: 35%;
+	float: none;
+}
+.arriba {
+	padding-left: 40%;
+	
+}
+
+*{
+
+	margin: 0px.;
+	padding:0px.;
+}
+
+
+#cabecera h1 {
+	text-shadow: black 2px 2px 3px;
+	color: red;
+	background-color:;
+	width: 450px;
+	font:bold 30px arial, verdana;
+	text-align: center;
+	margin: 0 auto;
+}
+.contenido{
+	margin: 0 auto;
+	width: 80%;
+	
+}
+
+.fizquierda {
+  		width: 60px;
+  		height: 50px;
+  		float:left;
+  	}
+.fderecha {
+  		width: 60px;
+  		height: 50px;
+  		float:right;
+ 	}
+section img {
+ 		float: left;
+  		width: 200px;
+  		height: 120px;
+ 	}
+article p{
+	margin-top: 40px;
+	text-align: justify;
+}
+dt a {
+	text-decoration: none;
+}
+
+nav a:visited{
+	color: black;
+	
+}
+nav a{
+	color: black;
+	
+}
+#seccion a:visited{
+	color: green;
+	text-shadow: black 2px 2px 3px;
+}
+
+#seccion{
+	color: white;
+	float:left;
+	width:80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 2%;
+}
+#seccion a{
+	color: lightgreen;
+}
+
+footer{
+	color:white;
+}
+
+
+h1 {
+font:bold 20px arial, verdana;
+
+}
+
+h2{
+
+font-weight: bold;
+font-size:15px;
+font-family: arial, verdana,
+
+}
+
+header, section, footer, aside, nav, article, figure, figcaption,hgroup {
+ display: block;
+
+}
+
+
+
+body{
+	text-align: center;
+	
+background-image: url("../imagenes/guitar.jpg");
+background-repeat: repeat;
+}
+#contenedor {
+
+	width:100%;
+	margin: 0 ;
+	text-align:left;
+/*background: linear-gradient(top, #FFFFFF 50%, #006699 90%);*/
+/*Gradiente radial */
+
+/*la posición de comienzo es el origen y puede ser declarada en pixeles, porcentaje
+o una combinación de palabras clave cemter, top, bottom, left y right
+finalmente color y posición para el inicio y final  */
+}
+
+
+#menu {
+	text-align: center;
+	background: #ccffba;
+	padding: 8px 15px;
+}
+.parrafos{
+	text-align: justify;
+}
+
+
+#seccion{
+
+	float:left;
+	width:95%;
+	margin:2%;
+}
+
+
+#pie{
+
+	clear:both;
+	text-align:center;
+	padding: 20px;
+	border-top:2px solid #999999;
+}
+
+
+#menu span {
+
+	display: inline-block;
+	list-style: none;
+	padding: 15px;
+	font-size:20px;
+	font-weight: bold;
+
+}
+nav#menu a span:hover{
+background:white;
+border-radius: 45px 45px 45px 45px;
+
+}
+
+/*span img{display: block;float: right;}*/
+
+#cabecera {
+background-image: url("../imagenes/musica2.jpg");
+border: 1px solid #999999;
+padding: 130px;
+}
+
+figure img{
+
+/*porque es en linea*/
+display:block;
+margin: 0 auto; /*la centro como una tabla que ahora sí es un elemento en bloque*/
+padding:15px;
+
+
+}
+
+article{
+background: grey;
+border: 1px solid black;
+padding: 20px;
+margin-bottom: 15px;
+
+}
+
+dd{
+	text-align: justify;
+}
+
+  .rss {
+      width: 60px;
+      height: 50px;
+      float:center;
+  }

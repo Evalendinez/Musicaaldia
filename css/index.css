@@ -1,0 +1,174 @@
+*{
+
+	margin: 0px.;
+	padding:0px.;
+}
+#cabecera h1 {
+	text-shadow: black 2px 2px 3px;
+	color: #4ac148;
+	background-color:;
+	width: 450px;
+	font:bold 30px arial, verdana;
+	text-align: center;
+	margin: 0 auto;
+}
+.contenido{
+	margin: 0 auto;
+	width: 80%;
+	
+}
+
+.fizquierda {
+  		width: 60px;
+  		height: 50px;
+  		float:left;
+  	}
+.fderecha {
+  		width: 60px;
+  		height: 50px;
+  		float:right;
+ 	}
+section img {
+ 		float: left;
+  		width: 200px;
+  		height: 120px;
+ 	}
+article p{
+	margin-top: 40px;
+	text-align: justify;
+}
+li a {
+	text-decoration: none;
+}
+
+nav a:visited{
+	color: black;
+	
+}
+nav a{
+	color: black;
+	
+}
+#seccion a:visited{
+	color: green;
+	text-shadow: black 2px 2px 3px;
+}
+
+#seccion{
+	color: white;
+	float:left;
+	width:80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 2%;
+}
+#seccion a{
+	color: lightgreen;
+}
+
+footer{
+	color:white;
+}
+
+
+
+
+
+
+body{
+
+background-image: url("../imagenes/guitar.jpg");
+background-repeat: repeat;
+}
+h1 {
+
+font:bold 20px arial, verdana;
+text-align: left;
+}
+
+h2{
+
+font-weight: bold;
+font-size:15px;
+font-family: arial, verdana,
+
+}
+
+header, section, footer, aside, nav, article, figure, figcaption,hgroup {
+ display: block;
+
+}
+
+
+
+body{
+	text-align: center;
+	
+}
+#contenedor {
+
+	width:100%;
+	margin: 0;
+	text-align:center;
+/*background: linear-gradient(top, #FFFFFF 50%, #006699 90%);*/
+/*Gradiente radial */
+
+/*la posición de comienzo es el origen y puede ser declarada en pixeles, porcentaje
+o una combinación de palabras clave cemter, top, bottom, left y right
+finalmente color y posición para el inicio y final  */
+background: -webkit-radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
+	background: -moz-radial-gradient(center, circle, #FFFFFF 0%, #006699 200%);
+}
+
+#cabecera {
+background-image: url("../imagenes/musica2.jpg");
+border: 1px solid #999999;
+padding: 130px;
+}
+
+#menu {
+
+	background: #ccffba;
+	padding: 8px 15px;
+}
+
+
+
+#pie{
+
+	clear:both;
+	text-align:center;
+	padding: 20px;
+	border-top:2px solid #999999;
+}
+
+
+#menu span {
+
+	display: inline-block;
+	list-style: none;
+	padding: 15px;
+	font-size:20px;
+	font-weight: bold;
+
+}
+nav#menu a span:hover{
+background:white;
+border-radius: 45px 45px 45px 45px;
+
+}
+
+
+article{
+	height: 200px;
+border: 1px solid black;
+padding: 20px;
+margin-bottom: 15px;
+
+}
+
+  .rss {
+      width: 60px;
+      height: 50px;
+      float:center;
+  }
